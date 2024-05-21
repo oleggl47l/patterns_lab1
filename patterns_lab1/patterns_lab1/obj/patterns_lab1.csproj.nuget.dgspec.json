@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oleg\\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\\patterns_polytech\\patterns_lab1\\patterns_lab1\\patterns_lab1\\patterns_lab1.csproj": {}
+    "D:\\polytech\\patterns_polytech\\patterns_lab1\\patterns_lab1\\patterns_lab1\\patterns_lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oleg\\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\\patterns_polytech\\patterns_lab1\\patterns_lab1\\patterns_lab1\\patterns_lab1.csproj": {
+    "D:\\polytech\\patterns_polytech\\patterns_lab1\\patterns_lab1\\patterns_lab1\\patterns_lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oleg\\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\\patterns_polytech\\patterns_lab1\\patterns_lab1\\patterns_lab1\\patterns_lab1.csproj",
+        "projectUniqueName": "D:\\polytech\\patterns_polytech\\patterns_lab1\\patterns_lab1\\patterns_lab1\\patterns_lab1.csproj",
         "projectName": "patterns_lab1",
-        "projectPath": "C:\\Users\\oleg\\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\\patterns_polytech\\patterns_lab1\\patterns_lab1\\patterns_lab1\\patterns_lab1.csproj",
+        "projectPath": "D:\\polytech\\patterns_polytech\\patterns_lab1\\patterns_lab1\\patterns_lab1\\patterns_lab1.csproj",
         "packagesPath": "C:\\Users\\oleg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oleg\\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\\patterns_polytech\\patterns_lab1\\patterns_lab1\\patterns_lab1\\obj\\",
+        "outputPath": "D:\\polytech\\patterns_polytech\\patterns_lab1\\patterns_lab1\\patterns_lab1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,38 @@
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\patterns_lab1.deps.json
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\patterns_lab1.runtimeconfig.json
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\patterns_lab1.exe
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\PluginA.deps.json
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\PluginA.dll
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\PluginA.pdb
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\patterns_lab1.dll
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\patterns_lab1.pdb
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.csproj.AssemblyReference.cache
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.AssemblyInfoInputs.cache
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.AssemblyInfo.cs
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.csproj.CoreCompileInputs.cache
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.sourcelink.json
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.csproj.Up2Date
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.dll
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\refint\PluginA.dll
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.pdb
+C:\Users\oleg\OneDrive - МОСКОВСКИЙ ПОЛИТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\ref\PluginA.dll
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\patterns_lab1.deps.json
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\patterns_lab1.runtimeconfig.json
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\patterns_lab1.exe
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\PluginA.deps.json
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\PluginA.dll
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\PluginA.pdb
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\patterns_lab1.dll
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\bin\Debug\net8.0\patterns_lab1.pdb
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.csproj.AssemblyReference.cache
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.GeneratedMSBuildEditorConfig.editorconfig
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.AssemblyInfoInputs.cache
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.AssemblyInfo.cs
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.csproj.CoreCompileInputs.cache
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.sourcelink.json
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.csproj.Up2Date
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.dll
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\refint\PluginA.dll
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\PluginA.pdb
+D:\polytech\patterns_polytech\patterns_lab1\patterns_lab1\PluginA\obj\Debug\net8.0\ref\PluginA.dll

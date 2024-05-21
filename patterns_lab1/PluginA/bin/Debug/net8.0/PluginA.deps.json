@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PluginA/1.0.0": {
+        "dependencies": {
+          "patterns_lab1": "1.0.0"
+        },
+        "runtime": {
+          "PluginA.dll": {}
+        }
+      },
+      "patterns_lab1/1.0.0": {
+        "runtime": {
+          "patterns_lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PluginA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "patterns_lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
