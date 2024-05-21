@@ -3,6 +3,7 @@
         private static readonly PluginHandler PluginHandler = new PluginHandler();
 
         static void Main(string[] args) {
+            //Некий пользовательский интерфйес
             while (true) {
                 Console.WriteLine("Menu:");
                 Console.WriteLine("1. Load plugins");
@@ -36,6 +37,7 @@
             }
         }
 
+        //Метод загрузки плагинов
         private static void LoadPlugins() {
             Console.Write("Enter the path to the plugin directory: ");
             string? path = Console.ReadLine();
@@ -46,22 +48,29 @@
             catch (Exception ex) {
                 Console.WriteLine($"Error: {ex.Message}");
             }
+            Console.WriteLine("\n");
         }
-
+        
+        //Метод выгрузки плагинов
         private static void UnloadPlugin() {
             Console.Write("Enter the name of the plugin to unload: ");
             string? name = Console.ReadLine();
             PluginHandler.UnloadPlugin(name);
+            Console.WriteLine("\n");
         }
 
+        //Метод выполнения плагина
         private static void ExecutePlugin() {
             Console.Write("Enter the name of the plugin to execute: ");
             string? name = Console.ReadLine();
             PluginHandler.ExecutePlugin(name);
+            Console.WriteLine("\n");
         }
 
+        //метод получения списка плагинов
         private static void ListPlugins() {
             PluginHandler.ListPlugins();
+            Console.WriteLine("\n");
         }
     }
 }

@@ -2,6 +2,8 @@
 
 namespace PluginA;
 
+
+//Реализация интерфейса IPlugin
 public class PluginA : IPlugin {
     public string Name { get; set; } = "PluginA";
     public void Initialize() {
